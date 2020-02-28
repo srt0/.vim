@@ -1,0 +1,1 @@
+/home/tapu/.vim/vimrc
